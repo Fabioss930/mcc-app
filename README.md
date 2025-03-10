@@ -1,2 +1,1 @@
-# mcc-app
-Sistema de listagem de Filmes em destaque
+# Sistema de listagem de Filmes em destaque

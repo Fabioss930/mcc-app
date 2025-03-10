@@ -61,3 +61,7 @@ Ou, se estiver usando Yarn:
 ```bash
 yarn dev
 ```
+
+### 6. Deploy do Projeto
+
+https://net-movie-filmes.netlify.app/
